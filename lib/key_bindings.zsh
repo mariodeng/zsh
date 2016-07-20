@@ -14,7 +14,7 @@ bindkey '^r' history-incremental-search-backward
 #bindkey '^[[A' up-line-or-search
 #bindkey '^[[B' down-line-or-search
 #
-B
+
 #bindkey "^[[H" beginning-of-line
 #bindkey "^[[1~" beginning-of-line
 #bindkey "^[OH" beginning-of-line
